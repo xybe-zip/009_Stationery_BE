@@ -1,9 +1,9 @@
 # 009_Stationery_BE
 Projek website Stationery BE ini dibuat untuk memenuhi UTS Mata Kuliah Pemrograman Web
 
-Nama  : Misbahul Munir 
-NIM   : 20051204009 
-Kelas : TI 2020 A 
+Nama  : Misbahul Munir <br>
+NIM   : 20051204009 <br>
+Kelas : TI 2020 A <br>
 
 Link My Website :
 https://stationery-be.netlify.app/
